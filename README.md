@@ -11,9 +11,9 @@ PROJETO E MODELAGEM DE SISTEMAS DE SOFTWARE
 
 ## Integrantes
 
-|     RA     |        NOME       | CURSO |  TURMA |   
-|------------|-------------------|-------|--------|
-| 3021102108 | Anderson Henrique |  ADS  |  03/T23|
+|     RA     |        NOME           | CURSO |  TURMA |   
+|------------|-----------------------|-------|--------|
+| 3021102108 |Anderson Henrique Luiz |  ADS  |  03/T23|
 
 
 ## Descrição do Projeto
